@@ -1,0 +1,35 @@
+graph TD
+    A[FinTech Evolution] --> B[FinTech 1.0: The Foundation (1950s–1980s)]
+    A --> C[FinTech 2.0: Digital Transformation (1980s–2008)]
+    A --> D[FinTech 3.0: The Rise of Startups (2008–2014)]
+    A --> E[FinTech 3.5: Expansion into Emerging Markets (2014–Present)]
+    A --> F[FinTech 4.0: The Future]
+
+    B --> B1[Introduction of Credit Cards]
+    B --> B2[Automated Teller Machines (ATMs)]
+    B --> B3[Electronic Funds Transfer (EFT)]
+    B --> B4[Stock Market Automation]
+    B --> B5[Mainframe Computers]
+
+    C --> C1[Digital Banking & Online Trading]
+    C --> C2[Secure Payment Systems]
+    C --> C3[Customer Relationship Management (CRM)]
+    C --> C4[Increased Security Measures]
+    C --> C5[Legacy Systems Integration]
+
+    D --> D1[Post-Crisis Innovation]
+    D --> D2[Mobile Banking & Digital Wallets]
+    D --> D3[Peer-to-Peer Lending]
+    D --> D4[Blockchain Technology]
+    D --> D5[Improved Transparency & Inclusion]
+
+    E --> E1[Mobile Money Solutions (e.g., M-Pesa)]
+    E --> E2[Microfinance & Remittances]
+    E --> E3[Cryptocurrency-Based Solutions]
+    E --> E4[Localized Financial Solutions]
+
+    F --> F1[AI & Machine Learning in Finance]
+    F --> F2[Advanced Blockchain & Decentralized Finance]
+    F --> F3[Sustainability & Ethical Finance]
+    F --> F4[Increased Interoperability]
+    F --> F5[Cross-Border Digital Payments]
